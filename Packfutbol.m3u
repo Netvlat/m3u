@@ -1,12 +1,3 @@
 #EXTM3U
-
-
-
-#EXTINF:0 tvg-logo="http://s.glbimg.com/es/ge/static/live/sportv/img/logos/facebook.png" group-title="sport",Sporttv
+#EXTINF: -1 group-title="TNTSports",hd
 https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/master.m3u8?hdnea=st=1664941781~exp=1664942381~acl=/*~hmac=af74761c7d6d3d3d839a104922dba59a36a4550dbe68482bc448c5227e499fe1
-#EXTINF:0 tvg-logo="http://s.glbimg.com/es/ge/static/live/sportv/img/logos/facebook.png" group-title="sport",Sporttv
-http://138.68.80.189/loadbalance/esportehd/chunks.m3u8?nimblesessionid=138220&wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMTcgMTI6MTY6MzUgQU0maGFzaF92YWx1ZT02QjErc1NPMzBHZVNPWTlxR0NwaWdRPT0mdmFsaWRtaW51dGVzPTE=
-#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-c3AAonuD8rE/UpowTnw07_I/AAAAAAAAEbQ/TQp6o3kaU2Y/s1600/logo-sportv231.png" group-title="sporte",Sporttv 2
-http://80.82.78.104/loadbalance/esporte2/chunks.m3u8?nimblesessionid=1557600&wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMTcgMTI6MjE6MDAgQU0maGFzaF92YWx1ZT12M210dlB1K2F6TlpDdDltMXFrb2ZRPT0mdmFsaWRtaW51dGVzPTE=
-#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-c3AAonuD8rE/UpowTnw07_I/AAAAAAAAEbQ/TQp6o3kaU2Y/s1600/logo-sportv231.png" group-title="sporte",Sporttv 2
-http://80.82.78.104/loadbalance/esporte2/l_17404889_3366078_1117.ts?nimblesessionid=1557600&wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMTcgMTI6MjE6MDAgQU0maGFzaF92YWx1ZT12M210dlB1K2F6TlpDdDltMXFrb2ZRPT0mdmFsaWRtaW51dGVzPTE=&f533ff6f-4aa0-4ad8-abb6-752e0468b260
